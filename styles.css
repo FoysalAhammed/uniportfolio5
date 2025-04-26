@@ -538,6 +538,13 @@ profile-photo .img{
     flex-basis: 100%;
     margin-bottom: 30px;
   }
-
+  .containerflex{
+    display: grid;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  .map{
+    margin-top: 20px;
+  }
 }
 
