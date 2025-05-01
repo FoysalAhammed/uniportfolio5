@@ -545,6 +545,7 @@ profile-photo .img{
   }
   .map{
     margin-top: 20px;
+    display: none;
   }
 }
 
